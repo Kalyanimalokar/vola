@@ -1,6 +1,7 @@
 # Vola: Your Passport to Cultural Awareness
 
-![Vola Logo](Your Passport to Cultural Awareness.jpg)
+![Your Passport to Cultural Awareness](https://github.com/Kalyanimalokar/vola/assets/82643974/330c218a-f9ea-4e1c-b060-6541fdf78e49)
+
 
 ## Overview
 
