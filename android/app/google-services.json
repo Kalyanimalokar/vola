@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590333405717",
+    "project_id": "vola-ba3ba",
+    "storage_bucket": "vola-ba3ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590333405717:android:2f753be6deb8807cefbc1c",
+        "android_client_info": {
+          "package_name": "com.kalyanim.vola1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590333405717-u6uuekuv2ha3e6l97jerha4s189cvln9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJinmM63BuU_3jRUYOZ7Zs_dkaTe4txcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590333405717-u6uuekuv2ha3e6l97jerha4s189cvln9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
