@@ -1,6 +1,6 @@
 # Vola: Your Passport to Cultural Awareness
 
-![Vola Logo]([https://example.com/vola-logo.png](https://drive.google.com/file/d/1ijq27nyGyzCvAlgKDGjaWZJ7dJ8sGRY_/view?usp=sharing))
+![Vola Logo](https://drive.google.com/file/d/1ijq27nyGyzCvAlgKDGjaWZJ7dJ8sGRY_/view?usp=sharing)
 
 ## Overview
 
